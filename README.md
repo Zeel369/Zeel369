@@ -1,47 +1,39 @@
-# Hi, I'm Jeel Avaiya 👋
+# Hi there 👋 I'm Jeel Avaiya
 
-## Data Analyst | Data Engineer | Business Intelligence Enthusiast
 
-Welcome to my GitHub profile! I'm Jeel Avaiya, a passionate data professional with experience in data analysis, data engineering, and business intelligence. I thrive on turning data into actionable insights and optimizing business processes to drive growth and efficiency.
 
-### 🛠️ Skills
-- **Programming Languages:** Python, SQL, R
-- **Tools & Technologies:** Power BI, MySQL, Excel, Hadoop, Spark, Kafka
-- **Areas of Expertise:** Data Visualization, Data Storytelling, ETL Processes, Statistical Analysis, Big Data Technologies
+A Data Scientist with 3+ years of experience in Python, Data Visualization, and Machine Learning. I'm passionate about building data-driven solutions and extracting valuable insights from complex datasets. 
 
-### 📊 Projects
+## What I'm Working On
 
-### 🌐 Experience
+*   **Logistics Data Analysis at FedEx:** Developing and maintaining logistics dashboards to visualize key performance metrics, leading to a 36% improvement in operational insights. 
+*   **Real-time Data Processing:** Implementing real-time data processing solutions using Apache Kafka and Spark to enhance data availability and support machine learning model deployment. 
+*   **Data Quality and Governance:** Establishing data validation processes and governance policies to reduce discrepancies by 30% and ensure compliance with industry standards. 
 
-- **Data Analyst at FedEx**  
-  Analyzed logistics data to optimize delivery routes and improve operational efficiency. Leveraged Excel and SQL to create actionable insights and streamline data processes.
+## Skills
 
-- **Data Engineer Intern at Atmiya Developers**  
-  Designed and managed ETL pipelines, optimized data storage solutions, and implemented real-time data processing workflows.
+*   **Programming Languages:** Python, R, C, C# 
+*   **Deep Learning Libraries:** TensorFlow, Keras, MLlib, scikit-learn, pandas, PyTorch 
+*   **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn, ggplot, Plotly 
+*   **Database Management:** SQL, NoSQL, MongoDB, Spark 
+*   **Cloud Computing:** AWS Redshift, S3 
+*   **Operating Systems:** Ubuntu Linux, UNIX, Windows 
 
-- **Data Analyst Intern at Amazon**  
-  Worked on resolving issues with app notifications by analyzing language preferences and collaborating with software development teams to enhance user experience.
+## Experience
 
-### 🎓 Education
+*   **Data Analyst (Logistics)** | FedEx | April 2024 - Present 
+*   **Logistics Coordinator** | FedEx | 2023 - March 2024 
+*   **Data Analyst Intern** | Amazon Inc. | January 2024 - April 2024 
+*   **Data Engineer** | Atmiya Developers | January 2021 - December 2022 
+*   **Research Intern** | Spark Innovations | July 2020 - December 2020 
 
-- **Master of Professional Studies in Data Analytics**  
-  Northeastern University, Vancouver 
-  Focus: Data Modeling, Database Administration, Data Visualization, Data Mining, Data Warehousing
+## Education
 
-- **Bachelor's in Automobile Engineering**  
-  Gujarat Technological University, India 
+*   **Master of Professional Studies** | Northeastern University, Vancouver, BC | January 2023 - June 2024 
+*   **Bachelor of Engineering (Automobile Engineering)** | Gujarat Technological University, Gujarat, India | January 2017 - December 2020 
 
-### 🌟 Achievements
+## Connect with me
 
-- **IBM Data Analyst Certificate**  
-  Completed a comprehensive certification program in data analysis and visualization.
+*  https://www.linkedin.com/in/zeel36
 
-- **HackerRank Certifications**  
-  Certified in SQL, Python, and problem-solving.
-
-### 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/jeelavaiya)
-- [Email](mailto:zeel.36.avaiya@gmail.com)
-
-Feel free to explore my projects and get in touch if you have any questions or opportunities!
+Thanks for visiting!
